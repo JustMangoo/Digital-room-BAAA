@@ -32,6 +32,7 @@ const alienAlphabet = {
   x: "X",
   y: "Y",
   z: "Z",
+  ___: " ",
 };
 
 resetBtn.addEventListener("click", () => {
